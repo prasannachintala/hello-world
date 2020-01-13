@@ -41,6 +41,9 @@ Push the changes to the central : git push
 Pull the changes to the central : git pull 
 
 
+Adding the Content in Important Link from Desktop
+
+
 
 
 
