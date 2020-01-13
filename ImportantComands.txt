@@ -1,0 +1,30 @@
+Git config for too much file length 
+
+git config --system core.longpaths true
+
+Triggers Confluence Page 
+
+https://confluence.oraclecorp.com/confluence/pages/viewpage.action?spaceKey=SPECTRA&title=Trigger+Model
+
+Start up guide to start Mircoservices 
+
+https://confluence.oraclecorp.com/confluence/display/SPECTRA/Getting+Started+with+Applcore%2C+BC+and+Helidon#GettingStartedwithApplcore,BCandHelidon-adf-config.xml
+
+
+Git Location of Fintech Project 
+
+https://alm.oraclecorp.com/fintech/#projects/ap-invoices-next-gen/scm/ap-invoice-next-gen.git/tree?revision=develop
+
+
+
+Clone 
+
+https://prasanna.chintala%40oracle.com@alm.oraclecorp.com/fintech/s/fintech_ap-invoices-micro-services_18510/scm/ap-invoice-next-gen.git
+
+Dev Branch 
+
+cd ap-invoice-next-gen/
+git checkout develop
+
+
+
