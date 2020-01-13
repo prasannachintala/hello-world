@@ -38,7 +38,10 @@ Add a file : git add "fileName"
 Commit changes : git commit -a 
 Undo changes : git restore "FileName" or git checkout "FileName"
 Push the changes to the central : git push 
-Pull the changes to the central : git pull 
+Pull the changes to the central : git pull
+Check the difference from local to central : git diff origin/dev-branch "FileName"
+                                             git diff dev-branch orgin/dev-branch
+                                            
 
 
 
