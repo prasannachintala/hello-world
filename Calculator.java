@@ -6,3 +6,5 @@ class Calculator {
 
 // I am updating the calculator file from Browser 
 // I am updating from Windows Desktop. I am making a conflict. 
+// I am adding a new line. 
+
